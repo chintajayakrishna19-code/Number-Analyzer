@@ -1,4 +1,4 @@
-:wq#include<stdio.h>
+#include<stdio.h>
 int Check_Prime(int*n)
 {
 	int i;
